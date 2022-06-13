@@ -1,4 +1,4 @@
-package jenkinsPractice;
+//package jenkinsPractice;
 
 public class Hello {
 
